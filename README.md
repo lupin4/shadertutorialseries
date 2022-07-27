@@ -1,2 +1,2 @@
 # Shader Tutorial Series
-source code for the YouTube series
+source code for the YouTube series from Lewis Lepton
